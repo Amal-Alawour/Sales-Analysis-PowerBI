@@ -108,4 +108,4 @@ It combines data analysis, visualization, and business intelligence to provide m
 
 ## 👤 Author
 
-Sales Analysis Project
+Amal Alawour
