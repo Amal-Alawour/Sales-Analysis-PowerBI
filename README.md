@@ -36,6 +36,25 @@ Sales-Analysis-PowerBI/
 │   ├── product_sales.png
 │   ├── region_sales.png
 │   └── category_sales.png
-│
+
+
+## 🐍 Python Data Analysis
+
+The Python analysis includes:
+
+- Loading the sales dataset
+- Data cleaning
+- Checking missing values
+- Checking duplicate records
+- Converting dates to datetime
+- Extracting Year and Month
+- Calculating total sales
+- Calculating total quantity sold
+- Analyzing sales by product
+- Analyzing sales by region
+- Analyzing sales by category
+- Monthly sales analysis
+- Data visualization
+- Exporting cleaned data
 └── PowerBI/
     └── Sales_Analysis_Dashboard.pbix
