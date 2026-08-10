@@ -1,5 +1,6 @@
 # 📊 Sales Analysis Dashboard
-<img width="1747" height="827" alt="image" src="https://github.com/user-attachments/assets/8d64bf2f-3e37-4dab-bf31-c312ceac7f7d" />
+<img width="1703" height="822" alt="image" src="https://github.com/user-attachments/assets/69f5f2c5-26c2-450d-888e-a4f9f4410151" />
+
 
 
 ## 📌 Project Overview
